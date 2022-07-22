@@ -1,0 +1,15 @@
+/Users/yaroslavayates/Documents/Projects/c-sharp-practice/CloudCustomers/bin/Debug/net6.0/CloudCustomers
+/Users/yaroslavayates/Documents/Projects/c-sharp-practice/CloudCustomers/bin/Debug/net6.0/CloudCustomers.deps.json
+/Users/yaroslavayates/Documents/Projects/c-sharp-practice/CloudCustomers/bin/Debug/net6.0/CloudCustomers.runtimeconfig.json
+/Users/yaroslavayates/Documents/Projects/c-sharp-practice/CloudCustomers/bin/Debug/net6.0/CloudCustomers.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-practice/CloudCustomers/bin/Debug/net6.0/CloudCustomers.pdb
+/Users/yaroslavayates/Documents/Projects/c-sharp-practice/CloudCustomers/obj/Debug/net6.0/CloudCustomers.csproj.AssemblyReference.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-practice/CloudCustomers/obj/Debug/net6.0/CloudCustomers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaroslavayates/Documents/Projects/c-sharp-practice/CloudCustomers/obj/Debug/net6.0/CloudCustomers.AssemblyInfoInputs.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-practice/CloudCustomers/obj/Debug/net6.0/CloudCustomers.AssemblyInfo.cs
+/Users/yaroslavayates/Documents/Projects/c-sharp-practice/CloudCustomers/obj/Debug/net6.0/CloudCustomers.csproj.CoreCompileInputs.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-practice/CloudCustomers/obj/Debug/net6.0/CloudCustomers.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-practice/CloudCustomers/obj/Debug/net6.0/refint/CloudCustomers.dll
+/Users/yaroslavayates/Documents/Projects/c-sharp-practice/CloudCustomers/obj/Debug/net6.0/CloudCustomers.pdb
+/Users/yaroslavayates/Documents/Projects/c-sharp-practice/CloudCustomers/obj/Debug/net6.0/CloudCustomers.genruntimeconfig.cache
+/Users/yaroslavayates/Documents/Projects/c-sharp-practice/CloudCustomers/obj/Debug/net6.0/ref/CloudCustomers.dll
