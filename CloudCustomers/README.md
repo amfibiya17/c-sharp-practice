@@ -1,6 +1,9 @@
-Cloud Customers (first C# pracrice, building a .NET 6 Web API from scratch using TDD)
+Cloud Customers
 ==============
-<coverage>
+
+(first C# pracrice, building a .NET 6 Web API from scratch using TDD)
+
+---
 
 - this program 
 - this program 
@@ -9,6 +12,7 @@ Cloud Customers (first C# pracrice, building a .NET 6 Web API from scratch using
 ---
 
 ## Covered in this project:
+
 - .NET 6
 - Web API Development
 - TDD
