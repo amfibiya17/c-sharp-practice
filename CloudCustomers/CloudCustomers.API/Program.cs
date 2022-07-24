@@ -27,5 +27,6 @@ app.MapControllers();
 app.Run();
 
 void ConfigureServices(IServiceCollection services) {
-    services.AddTransient<IUsersService, UserService>();
+    services.AddTransient<IUsersService, UsersService>();
+    services.AddHttpClient<IUsersService, UsersService>(); // dependency injection
 }
