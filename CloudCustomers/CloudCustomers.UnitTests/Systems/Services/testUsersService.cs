@@ -66,6 +66,22 @@ namespace CloudCustomers.UnitTests.Systems.Services
       // Assert
       result.Count.Should().Be(0);
     }
+
+    [Fact]
+    public async Task GetAllUsers_WhenCalled_returnsListOfUsersOfExpectedSize()
+    {
+      // Arrange
+      var expectedResponce = UsersFixture.GetTestUsers();
+      var handlerMock = MockHttpMessageHandler<User>.SetupBasicGetResourceList(expectedResponce);
+      var httpClient = new HttpClient(handlerMock.Object);
+      var sut = new UsersService(httpClient);
+
+      // Act
+      var result = await sut.GetAllUsers();
+
+      // Assert
+      result.Count.Should().Be(expectedResponce.Count);
+    }
   }
 
 }
