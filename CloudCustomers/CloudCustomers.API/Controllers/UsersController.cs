@@ -8,16 +8,16 @@ namespace CloudCustomers.API.Controllers;
 public class UsersController : ControllerBase
 {
     private readonly IUsersService _userService;
-    private object @object;
+    //private object @object;
 
     public UsersController(IUsersService userService) {
         _userService = userService;
     }
 
-    public UsersController(object @object)
-    {
-        this.@object = @object;
-    }
+    //public UsersController(object @object)
+    //{
+    //    this.@object = @object;
+    //}
 
     [HttpGet(Name = "GetUsers")]
 
