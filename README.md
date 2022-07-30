@@ -49,7 +49,7 @@ git clone https://github.com/amfibiya17/c-sharp-practice.git
 cd c-sharp-practice/CloudCustomers/CloudCustomers.API
 dotnet run
 ```
-and go to [localhost:7068/swagger/index.html]()
+and go to [localhost:7068/swagger/index.html](localhost:7068/swagger/index.html)
 
 Or
 
