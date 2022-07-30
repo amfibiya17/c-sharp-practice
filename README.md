@@ -23,7 +23,6 @@ First C# practice, building a .NET 6 Web API from scratch using TDD
 - .NET 6
 - Web API Development
 - TDD
-- Test Driven Development
 - Unit Testing
 - HttpClient
 - .NET Dependency Injection
